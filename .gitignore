@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+# Ignore virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
