@@ -5,9 +5,11 @@
 
 ## Overview
 
-**AutoHub Inventory System** is a modular Python desktop application designed for managing automotive inventory and sales operations. The system enforces role-based access control, distinguishing between administrators and customers, while providing a dynamic interface for real-time interaction.
+**AutoHub Inventory System** is a modular, API-driven desktop application for managing automotive inventory and sales in a corporate in-house environment. With a clear separation of concerns, it exposes an internal API layer for core functions like inventory tracking, user authentication, and role-based access control.
 
-Built using the Tkinter framework, the application integrates `pandas` for data structure handling and efficient CSV operations. It was developed iteratively following the software development lifecycle (SDLC), emphasizing modularity, maintainability, and data integrity.
+Built with the **Python’s standard Tk GUI toolkit**, it provides a modern, responsive interface tailored for administrators and sales staff. `pandas` powers efficient handling of structured data and CSV integration.
+
+Developed iteratively under SDLC principles, AutoHub prioritizes modularity, data integrity, and long-term maintainability—delivering a professional-grade system that meets real operational needs.
 
 ---
 
